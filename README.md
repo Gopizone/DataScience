@@ -1,3 +1,3 @@
 # DS
-Data Science Projects
-Vist me @ https://digitalgopi.com
+Data Science Projects.
+Visit me @ https://digitalgopi.com
